@@ -1,0 +1,18 @@
+Indications:
+
+- Au passage de la souris sur la nav barre les catégories doivent être surlignées il en va de même pour ce qui concerne les titres(comme indiqué sur la maquette).
+
+code HTML ET CSS pour vous aider ici : 
+
+https://www.copier-coller.com/effet-de-surlignement-sur-les-onglets-de-menu/
+
+
+- Au click sur le bouton "découvrir notre équipe": la partie équipe doit se dérouler
+
+- Nous voudrions un petit curseur rond pour la souris.
+
+-  LE MENU DOIT ETRE STICKY!
+
+- ET ET ET POUR TERMINUS LES MINUS on a oublié de mettre sur la maquette l'option newsletter (paronnez nous) si vous pouviez l'intégrer dans le footer du coup merci!
+
+Grosse force à vous et je vous aimes coeur sur vos fesses <3
